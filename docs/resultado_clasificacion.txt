@@ -1,0 +1,20 @@
+Modelo: google_genai:gemini-3.5-flash-lite   Casos: 30
+
+  [ 1/30] ✓  alta → alta 
+  [ 2/30] ✓  alta → alta 
+  [ 3/30] ✓  alta → alta 
+  [ 4/30] ✓  alta → alta 
+  [ 5/30] ✓  alta → alta 
+  [ 6/30] ✓  alta → alta 
+  [ 7/30] ✓  alta → alta 
+  [ 8/30] ✓  alta → alta 
+  [ 9/30] ✓ media → media
+  [10/30] ✓ media → media
+  [11/30] ✓ media → media
+  [12/30] ✓ media → media
+  [13/30] ✓ media → media
+  [14/30] ✗ media → alta 
+  [15/30] ✓ media → media
+  [16/30] ✓ media → media
+  [17/30] ✓ media → media
+  [18/30] ✓ media → media
